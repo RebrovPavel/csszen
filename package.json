@@ -1,0 +1,12 @@
+{
+  "name": "csszen",
+  "version": "1.0.0",
+  "description": "Видите справа панель? Ваша задача обеспечить ее функциональность в рамках следующей логики:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
